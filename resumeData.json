@@ -1,0 +1,99 @@
+{
+  "main": {  
+    "name": "Ben lahbib soukayna",
+    "occupation": "développeuse web",
+    "description": "J'adore le développement web et la programmation",
+    "image": "profilePic.png",
+    "bio": "<div><p>Après l'obtention de mon master en mathématiques appliquées, j'ai découvert le monde du développement web, c'est là où j'ai pris la décision de m'orienter vers ce domaine et de changer carrément de carrière.</p> <p>Je me suis inscrite aux parcours <a href='https://openclassrooms.com'>d'openclassrooms</a> développeur web-php , développeur Front-End  et développeur d'application web. J'ai terminé tous les cours associés ensuite j'ai approfondi  mes connaissances  sur  d’autres plateformes  comme <a href='https://W3schools.com'> W3schools, </a><a href='https://developer.mozilla.org'>developermozilla, </a><a href='https://capitainewp.io'>capitainewp, </a><a href='https://Grafikart.fr'>Grafikart</a>  et plein d'autres sites web  ainsi que des chaines youtube comme TheNetNinja, FreeCodeCamp …</p> </div>",
+    "contactmessage": "Ravie de recevoir vos messages!!",
+    "email": "soukabenlahbib@gmail.com",
+    "phone": "+212621872726",
+    "address": {
+      "street": "Hay elquods rue tétouane  derb 4 n°15",
+      "city": "Meknes",
+      "state": "ouislane",
+      "zip": "50000"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1NBfweUwt3H-OE1fX-8Hf9t44lKpy53BW/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/souka-ben-843262123",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/soukaynaBen",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Compétences en programmation",
+    "education": [
+      {
+        "school": "Faculté des sciences Dhar El Mehraz",
+        "degree": "Master en mathématiques appliquées",
+        "graduated": "Juin 2018",
+        "description": "équations dérivées patielles et analyse numérique"
+      }
+    ],
+    "work": [
+      {
+        "company": "Soft As",
+        "title": "Stagiaire",
+        "years": "Février 2021 ",
+        "description": "- Développement d'un site web dynamique WordPress destiné aux écoles.<br/>- Développement d'un site vitrine pour une société spécialisée  dans la construction et aménagement des bâtiments."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Php",
+        "level": "55%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://whatsapp-2-7bc96.firebaseapp.com"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://linkedin-app-ec2fe.firebaseapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Par son enthousiasme, créativité, rigueur... et ses qualités professionnelles et humaines, Ben lahbib a rempli tous les objectifs de son stage. Sa présence et ses réalisations ont été satisfaisantes à tous points de vue",
+        "user": "responsable de département web (soft-as)"
+      }
+      
+    ]
+  }
+}
