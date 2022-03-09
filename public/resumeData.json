@@ -74,17 +74,36 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Amazon Clone (Next JS)",
         "category": "",
-        "image": "gmail.png",
-        "url": "https://whatsapp-2-7bc96.firebaseapp.com"
+        "image": "amazon-clone.png",
+        "url": "https://amazon-clone101.netlify.app"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Dashboard (React JS)",
         "category": "",
-        "image": "linkedin.png",
-        "url": "https://linkedin-app-ec2fe.firebaseapp.com/"
+        "image": "dashboard.png",
+        "url": "dashboard-913f7.firebaseapp.com"
+      },
+      {
+        "title": "Google docs Clone (Next JS)",
+        "category": "",
+        "image": "google-docs.png",
+        "url": "https://google-docs101.netlify.app/"
+      },
+      {
+        "title": "Hulu (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu101.netlify.app"
+      },
+      {
+        "title": "Slimstone (React JS)",
+        "category": "",
+        "image": "slimstone.png",
+        "url": "slimstone-b9c7c.firebaseapp.com"
       }
+     
     ]
   },
   "testimonials": {
