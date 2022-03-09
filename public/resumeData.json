@@ -83,7 +83,7 @@
         "title": "Dashboard (React JS)",
         "category": "",
         "image": "dashboard.png",
-        "url": "dashboard-913f7.firebaseapp.com"
+        "url": "https://dashboard-913f7.firebaseapp.com"
       },
       {
         "title": "Google docs Clone (Next JS)",
@@ -101,7 +101,7 @@
         "title": "Slimstone (React JS)",
         "category": "",
         "image": "slimstone.png",
-        "url": "slimstone-b9c7c.firebaseapp.com"
+        "url": "https://slimstone-b9c7c.firebaseapp.com"
       }
      
     ]
