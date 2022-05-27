@@ -85,17 +85,17 @@
         "image": "dashboard.png",
         "url": "https://dashboard-913f7.firebaseapp.com"
       },
-       {
-        "title": "Hulu (Next JS)",
-        "category": "",
-        "image": "hulu.png",
-        "url": "https://hulu101.netlify.app"
-      },
       {
         "title": "Google docs Clone (Next JS)",
         "category": "",
         "image": "google-docs.png",
         "url": "https://google-docs101.netlify.app/"
+      },
+       {
+        "title": "Hulu (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu101.netlify.app"
       },
       {
         "title": "Slimstone (React JS)",
