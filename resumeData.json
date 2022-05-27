@@ -78,11 +78,6 @@
         "category": "",
         "image": "amazon-clone.png",
         "url": "https://amazon-clone101.netlify.app"
-      },{
-        "title": "Slimstone (React JS)",
-        "category": "",
-        "image": "slimstone.png",
-        "url": "https://slimstone-b9c7c.firebaseapp.com"
       },
       {
         "title": "Dashboard (React JS)",
@@ -101,6 +96,12 @@
         "category": "",
         "image": "google-docs.png",
         "url": "https://google-docs101.netlify.app/"
+      },
+      {
+        "title": "Slimstone (React JS)",
+        "category": "",
+        "image": "slimstone.png",
+        "url": "https://slimstone-b9c7c.firebaseapp.com"
       },
       {
         "title": "Dribble (React JS)",
