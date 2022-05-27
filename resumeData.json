@@ -78,17 +78,17 @@
         "category": "",
         "image": "amazon-clone.png",
         "url": "https://amazon-clone101.netlify.app"
+      },{
+        "title": "Slimstone (React JS)",
+        "category": "",
+        "image": "slimstone.png",
+        "url": "https://slimstone-b9c7c.firebaseapp.com"
       },
       {
         "title": "Dashboard (React JS)",
         "category": "",
         "image": "dashboard.png",
         "url": "https://dashboard-913f7.firebaseapp.com"
-      },{
-        "title": "Slimstone (React JS)",
-        "category": "",
-        "image": "slimstone.png",
-        "url": "https://slimstone-b9c7c.firebaseapp.com"
       },
        {
         "title": "Hulu (Next JS)",
